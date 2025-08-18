@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**sameeksha-05/sameeksha-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hey there, I'm Sameeksha Poojary  
 
-Here are some ideas to get you started:
+🎓 Pursuing **B.E. in Artificial Intelligence & Data Science**  
+💻 Learning & building with **Python** and **C**  
+🚀 Curious about **Machine Learning, AI, and Open Source**  
+📂 Explore my projects 👉 [GitHub Repos](https://github.com/sameeksha-05)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Currently
+- 🚧 Working on beginner-friendly projects  
+- 🧩 Sharpening problem-solving skills  
+- 🌐 Learning Git & GitHub for collaboration  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python 🐍, C ⚡  
+- **Tools:** Git, GitHub, VS Code  
+- **Exploring:** Data Science, AI & ML 🚀  
+
+---
+
+## 📫 Let’s Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sameeksha-poojary-52909b366)
+- 📧 [Email](poojarysameeksha05@gmail.com)  
+
+---
+
+⭐️ *“Code. Learn. Build. Repeat.”*
