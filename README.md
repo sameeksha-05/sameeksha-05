@@ -1,7 +1,4 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Sameeksha%20Poojary&fontSize=45&fontColor=ffffff&animation=twinkling&desc=AI%20%26%20Data%20Science%20Student&descAlignY=60&descSize=18" alt="header" />
-</p>
+
 
 <!-- Typing animation -->
 <p align="center">
