@@ -98,23 +98,28 @@ A Python & NumPy-based tool to analyze and process student marks/data.
 </p>
 
 ---
-### ⚡ Developer Dashboard
+### ⚡ Developer Space
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-7dd3fc?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-Python-7dd3fc?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Currently-Learning%20Linux-7dd3fc?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/💻%20Languages-Python%20%7C%20C-7dd3fc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔐%20Currently%20Exploring-Cybersecurity-7dd3fc?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/sameeksha-05/expense-tracker-python?label=Expense%20Tracker&style=for-the-badge&color=7dd3fc" />
-  <img src="https://img.shields.io/github/repo-size/sameeksha-05/student-mark-analyzer?label=Student%20Analyzer&style=for-the-badge&color=7dd3fc" />
+  <img src="https://img.shields.io/badge/🧠%20Interested%20In-AI%20%26%20Data%20Science-7dd3fc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐧%20Learning-Linux-7dd3fc?style=for-the-badge" />
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/sameeksha-05?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-7dd3fc?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🚀%20View%20All%20Repositories-7dd3fc?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <i>Building today. Learning for tomorrow. 🚀</i>
 </p>
 ---
 
