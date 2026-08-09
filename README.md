@@ -98,26 +98,24 @@ A Python & NumPy-based tool to analyze and process student marks/data.
 </p>
 
 ---
-
-### 📈 GitHub Stats
-
-### 📈 GitHub Stats
+### ⚡ Developer Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameeksha-05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeksha-05&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-7dd3fc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Python-7dd3fc?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Currently-Learning%20Linux-7dd3fc?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sameeksha-05&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
+  <img src="https://img.shields.io/github/repo-size/sameeksha-05/expense-tracker-python?label=Expense%20Tracker&style=for-the-badge&color=7dd3fc" />
+  <img src="https://img.shields.io/github/repo-size/sameeksha-05/student-mark-analyzer?label=Student%20Analyzer&style=for-the-badge&color=7dd3fc" />
 </p>
-
-### ⚡ GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameeksha-05&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Activity" />
+  <a href="https://github.com/sameeksha-05?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-7dd3fc?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 ### 🔗 Connect with Me
