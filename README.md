@@ -20,13 +20,12 @@
 ```typescript
 const sameeksha = {
   title: "AI & Data Science Student",
-  stack: ["C", "C++", "Python", "Linux Fundamentals", "NumPy"],
+  stack: ["C" , "Python", "Linux Fundamentals", "NumPy"],
   launchedProjects: [
     "Expense Tracker (Python)",
     "Student Mark Analyzer (Python, NumPy)"
   ],
-  certifications: [],
-  status: "Learning & building projects in AI/DS",
+  status: "Learning & building projects ",
   openTo: "Collaborations & learning opportunities"
 };
 ```
