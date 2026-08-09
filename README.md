@@ -27,7 +27,8 @@ const sameeksha = {
   stack: ["C", "Python", "Linux Fundamentals", "NumPy"],
   launchedProjects: [
     "Expense Tracker (Python)",
-    "Student Mark Analyzer (Python, NumPy)"
+    "Student Mark Analyzer (Python, NumPy)",
+    "Cafe management system (python)"
   ],
   status: "Learning & building projects in AI/DS",
   openTo: "Collaborations & learning opportunities"
@@ -41,8 +42,13 @@ const sameeksha = {
 #### 💰 Expense Tracker
 A Python-based application to track and manage personal expenses.
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameeksha-05&repo=expense-tracker-python&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Expense Tracker" />
+<p align="center">
+  <a href="https://github.com/sameeksha-05/expense-tracker-python">
+    <img
+      src="https://img.shields.io/badge/💰%20Expense%20Tracker-Python%20Project-7dd3fc?style=for-the-badge&logo=github&logoColor=white"
+      alt="Expense Tracker"
+    />
+  </a>
 </p>
 
 | Layer | Technology |
@@ -56,8 +62,13 @@ A Python-based application to track and manage personal expenses.
 #### 📊 Student Mark Analyzer
 A Python & NumPy-based tool to analyze and process student marks/data.
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameeksha-05&repo=student-mark-analyzer&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Student Mark Analyzer" />
+<p align="center">
+  <a href="https://github.com/sameeksha-05/student-mark-analyzer">
+    <img
+      src="https://img.shields.io/badge/📊%20Student%20Mark%20Analyzer-Python%20%7C%20NumPy-7dd3fc?style=for-the-badge&logo=github&logoColor=white"
+      alt="Student Mark Analyzer"
+    />
+  </a>
 </p>
 
 | Layer | Technology |
