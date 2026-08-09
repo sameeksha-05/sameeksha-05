@@ -1,6 +1,7 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Sameeksha%20Poojary&fontSize=45&fontColor=ffffff&animation=twinkling&desc=AI%20%26%20Data%20Science%20Student&descAlignY=60&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=200&section=header&text=Sameeksha%20Poojary&fontSize=45&fontColor=ffffff" width="100%" alt="Header">
+</p>
 </p>
 
 <!-- Typing animation -->
@@ -23,12 +24,11 @@
 ```typescript
 const sameeksha = {
   title: "AI & Data Science Student",
-  stack: ["C", "C++", "Python", "Linux Fundamentals", "NumPy"],
+  stack: ["C", "Python", "Linux Fundamentals", "NumPy"],
   launchedProjects: [
     "Expense Tracker (Python)",
     "Student Mark Analyzer (Python, NumPy)"
   ],
-  certifications: [],
   status: "Learning & building projects in AI/DS",
   openTo: "Collaborations & learning opportunities"
 };
