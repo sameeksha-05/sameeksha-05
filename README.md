@@ -135,4 +135,10 @@ A Python & NumPy-based tool to analyze and process student marks/data.
 </p>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=100&section=footer&animation=twinkling" alt="footer" />
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=160&section=footer"
+    width="100%"
+    alt="footer"
+  />
+</p>
