@@ -101,25 +101,21 @@ A Python & NumPy-based tool to analyze and process student marks/data.
 
 ### 📈 GitHub Stats
 
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameeksha-05&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeksha-05&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sameeksha-05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeksha-05&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sameeksha-05&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sameeksha-05&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </p>
 
-### 🏆 GitHub Trophies
+### ⚡ GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sameeksha-05&theme=nord&no-frame=true&no-bg=true&margin-w=10" alt="trophies" />
-</p>
-
-### 📅 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameeksha-05&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" alt="activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sameeksha-05&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Activity" />
 </p>
 
 ---
