@@ -1,5 +1,4 @@
 <!-- Header -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=200&section=header&text=Sameeksha%20Poojary&fontSize=45&fontColor=ffffff" width="100%" alt="Header">
 </p>
