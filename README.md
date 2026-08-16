@@ -4,6 +4,7 @@
 </p>
 </p>
 
+
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
