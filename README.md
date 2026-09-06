@@ -103,7 +103,7 @@ A Python & NumPy-based tool to analyze and process student marks/data.
 
 <p align="center">
   <img src="https://img.shields.io/badge/💻%20Languages-Python%20%7C%20C-7dd3fc?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔐%20Exploring-Cybersecurity-7dd3fc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔐%20Exploring-Full-Stack-7dd3fc?style=for-the-badge" />
 </p>
 
 <p align="center">
