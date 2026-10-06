@@ -85,12 +85,12 @@ A Python & NumPy-based tool to analyze and process student marks/data.
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=c,python" alt="languages" />
 </p>
 
 **Dev Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux" alt="dev tools" />
+  <img src="https://skillicons.dev/icons?i=WebDevelopment" alt="dev tools" />
 </p>
 
 **AI / Data Science**
