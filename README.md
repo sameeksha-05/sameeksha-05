@@ -1,9 +1,9 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=240&section=header&text=Sameeksha%20Poojary&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Python%20Developer&descSize=18&descAlignY=58" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=230&section=header&text=Sameeksha%20Poojary&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20Data%20Science%20Student&descSize=18&descAlignY=58" alt="Header" />
 
 <a href="https://github.com/sameeksha-05">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=820&lines=AI+%26+Data+Science+Student;Building+with+Python+and+NumPy;Learning+Git%2C+GitHub+and+Full+Stack+Web+Development;Learn.+Build.+Break.+Debug.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=820&lines=AI+%26+Data+Science+Student;Building+with+Python+and+NumPy;Learning+Git%2C+GitHub+and+Full+Stack+Web+Development;Learn.+Build.+Break.+Debug.+Repeat." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -42,7 +42,7 @@ I am a second-year engineering student specializing in **AI & Data Science**, bu
 | Opportunity | Status |
 |:--|:--|
 | Collaborations on student and open source projects | Open |
-| Learning opportunities  | Open |
+| Learning opportunities | Open |
 | Hackathons and project teams | Open |
 
 ---
@@ -52,31 +52,31 @@ I am a second-year engineering student specializing in **AI & Data Science**, bu
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py&theme=dark" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 </p>
 
 ### Backend & Databases
 
 <p>
-  <em>Currently learning — full stack path in progress</em>
+<em>Currently learning — full stack path in progress</em>
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
 </p>
 
 ### AI / Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,numpy&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,numpy&theme=dark" />
 </p>
 
 ---
@@ -155,7 +155,6 @@ An early project that strengthened my fundamentals in functions, conditionals, a
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-YOUR_HANDLE-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sameeksha_05/)
 
-
 </div>
 
 ---
@@ -175,24 +174,24 @@ An early project that strengthened my fundamentals in functions, conditionals, a
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sameeksha-05&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=sameeksha-05&theme=onedark&column=7&no-frame=true" alt="GitHub Trophies" />
 
 </div>
+
 
 ---
 
-## Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameeksha-05&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true&title_color=A78BFA" width="100%" />
+<img src="https://ghchart.rshah.org/7C3AED/sameeksha-05" alt="GitHub contribution chart" width="100%" />
 
 </div>
-
 ---
 
 ## Contribution Snake
@@ -248,6 +247,6 @@ Open To:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=130&section=footer"/>
 
 </div>
