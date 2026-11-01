@@ -1,0 +1,31 @@
+name: Update Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download trophies
+        run: |
+          mkdir -p assets
+          curl -fsSL --retry 5 --retry-delay 20 \
+            "https://github-profile-trophy.vercel.app/?username=sameeksha-05&theme=onedark&column=7&no-frame=true" \
+            -o assets/trophies.tmp \
+            && mv assets/trophies.tmp assets/trophies.svg \
+            || echo "Download failed, keeping previous file"
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --cached --quiet || (git commit -m "Update trophies" && git push)
