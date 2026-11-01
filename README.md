@@ -174,17 +174,6 @@ An early project that strengthened my fundamentals in functions, conditionals, a
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sameeksha-05&theme=onedark&column=7&no-frame=true" alt="GitHub Trophies" />
-
-</div>
-
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
