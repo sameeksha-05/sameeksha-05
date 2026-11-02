@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=230&section=header&text=Sameeksha%20Poojary&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20Data%20Science%20Student&descSize=18&descAlignY=58" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=230&section=header&text=Sameeksha%20Poojary&fontSize=50&fontColor=ffffff&fontAlignY=50" alt="Sameeksha Poojary" />
 
 <a href="https://github.com/sameeksha-05">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=820&lines=AI+%26+Data+Science+Student;Building+with+Python+and+NumPy;Learning+Git%2C+GitHub+and+Full+Stack+Web+Development;Learn.+Build.+Break.+Debug.+Repeat." alt="Typing SVG" />
