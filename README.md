@@ -1,3 +1,4 @@
+
  <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=230&section=header&text=Sameeksha%20Poojary&fontSize=50&fontColor=ffffff&fontAlignY=50" alt="Sameeksha Poojary" />
