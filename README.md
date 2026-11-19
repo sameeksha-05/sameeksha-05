@@ -6,6 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=820&lines=AI+%26+Data+Science+Student;Building+with+Python+and+NumPy;Learning+Git%2C+GitHub+and+Full+Stack+Web+Development;Learn.+Build.+Break.+Debug.+Repeat." alt="Typing SVG" />
 </a>
 
+
 <br/>
 
 ![B.E.](https://img.shields.io/badge/Engineering-AI_%26_Data_Science-4C1D95?style=for-the-badge&logo=academia&logoColor=white)
